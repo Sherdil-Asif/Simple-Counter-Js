@@ -1,0 +1,41 @@
+body{
+    
+   background-color: aqua;
+}
+#container{
+    height: 350px;
+    width: 280px;
+    border: solid palevioletred;
+    margin: auto;
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+#number{
+    height: 30px;
+    width: 260px;
+    border: solid brown;
+    margin-top: 40px;
+    text-align: center;
+    background-color: lightcyan;
+    margin: auto;
+    margin-top: 40px;
+
+}
+#increment{
+      height: 30px;
+      width: 100px;
+      margin-left: 80px;
+      margin-top: 30px;
+      border-radius: 30px;
+}
+#decrement{
+    height: 30px;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
